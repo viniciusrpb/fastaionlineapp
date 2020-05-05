@@ -2,4 +2,6 @@
 
 **Description** 
 
-Webapp cloud image classifier with fastai, AlexNet and Voila
+Webapp cloud image classifier with fastai, AlexNet and Voila:
+
+http://tiny.cc/classify_clouds
